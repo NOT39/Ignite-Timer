@@ -17,3 +17,27 @@
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" height="40" width="52" alt="CSS3 logo"  />
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" height="40" width="52" alt="HTML5 logo"  />
 </div>
+
+## Rodando o projeto
+
+```
+// Clone o projeto em sua máquina
+git clone https://github.com/NOT39/Ignite-Timer
+// Vá para pasta de destino
+cd Ignite-Timer
+```
+
+- npm
+```
+npm run dev
+```
+
+- yarn
+```
+yarn dev
+```
+
+- pnpm
+```
+pnpm dev
+```
